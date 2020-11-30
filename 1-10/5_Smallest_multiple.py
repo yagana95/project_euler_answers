@@ -7,5 +7,5 @@ What is the smallest positive number that is evenly divisible by all of the numb
 #Then the smallest positive number will be 1*5*7*9*11*13*16*17*19
 
 print(1*5*7*9*11*13*16*17*19)
-#That's because we have to find the biggest multiples of each number so the
+#That's because we have to find the biggest factor of each multiple so the
 #result is divisible by all of them.
